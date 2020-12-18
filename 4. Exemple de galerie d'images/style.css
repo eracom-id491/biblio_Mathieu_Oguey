@@ -1,0 +1,29 @@
+
+body { font-family: helvetica; }
+
+body, h3, p { margin: 0; }
+
+img {width: 100%;}
+
+.parent {
+	padding: 2rem;
+}
+.enfant {
+	margin: 0.5rem;
+	padding: 0.5rem;
+	background-color: #D7FEFF;
+}
+
+.parent {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.enfant {
+	width: calc(33.3333% - 2rem);
+	flex-grow: 0;
+	flex-shrink: 0;
+	flex-basis: auto;
+	/*	raccourci:		*/
+	/*	flex: 0 0 auto;	*/
+}

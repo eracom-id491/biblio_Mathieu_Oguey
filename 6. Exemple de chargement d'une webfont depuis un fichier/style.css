@@ -1,0 +1,42 @@
+
+@font-face {	font-family: 'CooperHewitt';	font-weight: 100;	font-style: normal;	src: url('cooperhewitt/CooperHewitt-Thin.woff');	}
+@font-face {	font-family: 'CooperHewitt';	font-weight: 100;	font-style: italic;	src: url('cooperhewitt/CooperHewitt-ThinItalic.woff');	}
+@font-face {	font-family: 'CooperHewitt';	font-weight: 300;	font-style: normal;	src: url('cooperhewitt/CooperHewitt-Light.woff');	}
+@font-face {	font-family: 'CooperHewitt';	font-weight: 300;	font-style: italic;	src: url('cooperhewitt/CooperHewitt-LightItalic.woff');	}
+@font-face {	font-family: 'CooperHewitt';	font-weight: 400;	font-style: normal;	src: url('cooperhewitt/CooperHewitt-Book.woff');	}
+@font-face {	font-family: 'CooperHewitt';	font-weight: 400;	font-style: italic;	src: url('cooperhewitt/CooperHewitt-BookItalic.woff');	}
+@font-face {	font-family: 'CooperHewitt';	font-weight: 500;	font-style: normal;	src: url('cooperhewitt/CooperHewitt-Medium.woff');	}
+@font-face {	font-family: 'CooperHewitt';	font-weight: 500;	font-style: italic;	src: url('cooperhewitt/CooperHewitt-MediumItalic.woff');	}
+@font-face {	font-family: 'CooperHewitt';	font-weight: 600;	font-style: normal;	src: url('cooperhewitt/CooperHewitt-Semibold.woff');	}
+@font-face {	font-family: 'CooperHewitt';	font-weight: 600;	font-style: italic;	src: url('cooperhewitt/CooperHewitt-SemiboldItalic.woff');	}
+@font-face {	font-family: 'CooperHewitt';	font-weight: 700;	font-style: normal;	src: url('cooperhewitt/CooperHewitt-Bold.woff');	}
+@font-face {	font-family: 'CooperHewitt';	font-weight: 700;	font-style: italic;	src: url('cooperhewitt/CooperHewitt-BoldItalic.woff');	}
+@font-face {	font-family: 'CooperHewitt';	font-weight: 800;	font-style: normal;	src: url('cooperhewitt/CooperHewitt-Heavy.woff');	}
+@font-face {	font-family: 'CooperHewitt';	font-weight: 800;	font-style: italic;	src: url('cooperhewitt/CooperHewitt-HeavyItalic.woff');	}
+
+body {
+	font-family: 'CooperHewitt', Helvetica;
+	margin-left: 1.5rem;
+}
+
+.p1 {
+	font-weight: 100;
+}
+.p2 {
+	font-weight: 300;
+}
+.p3 {
+	font-weight: 400;
+}
+.p4 {
+	font-weight: 500;
+}
+.p5 {
+	font-weight: 600;
+}
+.p6 {
+	font-weight: 700;
+}
+.p7 {
+	font-weight: 800;
+}
